@@ -1,0 +1,116 @@
+body{
+	margin: 0%;
+	text-align: center;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 20px;
+}
+
+h1{
+	margin-top: 0%;
+	color: whitesmoke;
+	font-family: 'Akaya Kanadaka', cursive;
+	font-size: 70px;
+}
+h2{
+	font-family: 'Josefin Sans', sans-serif;
+	color: #6ed6c8;
+}
+h3{
+	font-family: 'Josefin Sans', sans-serif;
+	color: #6ed6c8;
+}
+
+.top_container{
+	background-color: #6ed6c8;
+	position: relative;
+	padding-top: 100px;
+
+}
+
+.middle-container{
+	background-color:white;
+	position: relative;
+	padding-top: 50px;
+	color: black;
+	padding-bottom: 50px;
+}
+
+.buttom_container{
+	background-color:#41AEA9;
+	padding: 50px 20px;
+	color: white;
+
+}
+
+.footer-link{
+	color: white;
+}
+.footer-link:hover{
+	color: teal;
+}
+
+.buttom-cloud{
+	position: absolute;
+	left: 300px;
+	bottom: 400px;
+}
+
+.top-cloud{
+	position: absolute;
+	right: 300px;
+	top: 100px;
+}
+
+.run-img{
+	width: 14%;
+}
+
+.skill-row{
+	width: 50%;
+	margin: 100px auto 100px auto;
+	text-align: left;
+	line-height: 1.5;
+}
+
+.comp-img{
+	width: 25%;
+	float: left;
+	margin-right: 30px;
+}
+
+.earth-img{
+	width: 25%;
+	float: right;
+	margin-left: 30px;
+}
+
+.btn {
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 27px;
+  background: #41AEA9;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #65d4cd;
+  text-decoration: none;
+}
+
+hr{
+	border-style: none;
+	border-top-style: dotted;
+	border-width: 5px;
+	border-color: rgb(172, 172, 172);
+	width: 5%;
+	margin: 100px auto;
+}
+
+.game_pro_text{
+	position: relative;
+	bottom: 30px;
+}
